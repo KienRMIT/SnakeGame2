@@ -1,0 +1,12 @@
+- Main menu
+	Start button
+	How to play
+		- Panel how to play
+	Quit
+- Sound effect (when snake eat food)
+- Improve pause function
+- Improve snake model and game screen
+	+ adding background image
+	+ adding body part image
+	+ adding head image
+- Adding level (increase by speed)
